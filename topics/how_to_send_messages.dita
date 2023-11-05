@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_send_messages">
+    <title>How to Send Messages</title>
+    <shortdesc>The following instructions are a guide on how to message other participants. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Messages are visible to everyone in a meeting. The conversation in the chat is also
+                saved</p>
+            <p>when meetings are recorded.</p>
+            <p>1. Join the video meeting.</p>
+            <p>2. At the bottom right of your screen, click “Chat”.</p>
+            <p>3. Enter your message.</p>
+            <p>4. Hit “send”.</p>
+        </context>
+    </taskbody>
+</task>

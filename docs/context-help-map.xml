@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="google_meet_virtual_collaboration"
+               path="topics/google_meet_virtual_collaboration.html"/>
+   <appContext helpID="how_to_get_started" path="topics/how_to_get_started.html"/>
+   <appContext helpID="presenting_during_a_google_meeting"
+               path="topics/presenting_during_a_google_meeting.html"/>
+   <appContext helpID="when_you_d_like_to_speak"
+               path="topics/when_you_d_like_to_speak.html"/>
+   <appContext helpID="how_to_send_messages" path="topics/how_to_send_messages.html"/>
+</map>

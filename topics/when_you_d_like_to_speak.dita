@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="when_you_d_like_to_speak">
+    <title>Speak Up and Ask Questions</title>
+    <shortdesc>When you want to speak while someone is presenting, all you need to do is "raise your
+        hand".</shortdesc>
+    <refbody>
+        <example>
+            <p>The <b>meeting host</b> is the person who schedules or begins the meeting. They can
+                add up to 25 co-</p>
+            <p>hosts once inside a meeting, and these people are known as moderators.</p>
+            <p>By <b>raising one’s hand</b>, a participant is indicating they’d like to speak and/or
+                ask a question. All</p>
+            <p>meeting participants are notified when someone raises their hand. They’re also moved
+                to the</p>
+            <p>main grid so moderators can see them and approve their request.</p>
+            <p>A participant can scroll to the bottom of their screen to the "Hand Raise" icon to do
+                this. They'd click on the same icon when they were done and wanted to lower their
+                hand.</p>
+        </example>
+    </refbody>
+</reference>

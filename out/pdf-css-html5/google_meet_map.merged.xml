@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/emell/OneDrive/Documents/GitHub/Google%20Meet%20Guide/google_meet_map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Google Meet Map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Google Meet Map</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="google_meet_virtual_collaboration"><resourceid appid="google_meet_virtual_collaboration" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Google Meet: A Virtual Collaboration</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_get_started"><resourceid appid="how_to_get_started" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to Get Started</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="presenting_during_a_google_meeting"><resourceid appid="presenting_during_a_google_meeting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Presenting During a Google Meeting</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="when_you_d_like_to_speak"><resourceid appid="when_you_d_like_to_speak" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Speak Up and Ask Questions</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When you want to speak while someone is presenting, all you need to do is "raise your         hand".</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_send_messages"><resourceid appid="how_to_send_messages" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to Send Messages</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The following instructions are a guide on how to message other participants. </shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="google_meet_virtual_collaboration" oid="google_meet_virtual_collaboration" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Google Meet: A Virtual Collaboration</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Google Meet is a tool offered by the Google website that enables people to meet
+            virtually.</p>
+        <p class="- topic/p ">In the era of online learning and work, it’s a convenient measure for employees,
+            students, and even friends to collaborate without being physically present with each
+            other.</p>
+        <p class="- topic/p "> More Information? Go to <xref class="- topic/xref " format="html" href="https://support.google.com/meet/topic/14074331?hl=en&amp;ref_topic=14074839,13802962,&amp;sjid=11765079781247779507-NA" scope="external"><?ditaot usertext?>Learn how to use Google Meet</xref></p>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_get_started" oid="how_to_get_started" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Get Started</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">The following directions will explain how to get started with Google
+                Meet.<p class="- topic/p "/><p class="- topic/p ">You will first need a Google account to access this tool. You will also
+                want to be using</p><p class="- topic/p ">technology that has a camera and microphone (i.e. your laptop
+                or iPhone).</p><p class="- topic/p ">1. Once you have an account established, login and go to the
+                Google home page. Click on your</p><p class="- topic/p ">account Menu at the top right (this would be
+                the nine little dots).</p><p class="- topic/p ">2. Once there, click on the dots and you will see a
+                small camera icon with the word “Meet” under</p><p class="- topic/p ">it.</p><p class="- topic/p ">3. When you click here,
+                the Google Meet page will come up and offer one of two options; it will</p><p class="- topic/p ">allow
+                you to start and/or schedule your own meeting or join a pre-established one using a
+                code</p><p class="- topic/p ">(this would be provided to you by whoever set up the meeting). These will
+                show up as “New</p><p class="- topic/p ">Meeting” and to the right of this, a white bar with “Enter a
+                code or link” in it. For the latter, once</p><p class="- topic/p ">the code is entered, there’s a
+                button to the left titled “Join” that will direct you to your meeting.</p><p class="- topic/p ">For the
+                former, you will be given three options after clicking the blue “New Meeting”
+                icon:</p><p class="- topic/p ">a. Create a meeting for later.</p><p class="- topic/p ">This option will give you a link to
+                share with others to join, whether it be for the present or a</p><p class="- topic/p ">later
+                time.</p><p class="- topic/p ">b. Start an instant meeting.</p><p class="- topic/p ">This will allow you to immediately
+                begin a meeting. The option for you to allow use of your</p><p class="- topic/p ">microphone and camera
+                will come up if you’d like to do so. Once your meeting appears, a white</p><p class="- topic/p ">box
+                with the link for others to join will appear as well as a blue icon entitled “add
+                others”.</p><p class="- topic/p ">c. Schedule in Google Calendar.</p><p class="- topic/p ">This option will allow you to
+                schedule a meeting through your calendar and give it a title. You</p><p class="- topic/p ">also have
+                the option of adding guests.</p></context>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="presenting_during_a_google_meeting" oid="presenting_during_a_google_meeting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Presenting During a Google Meeting</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Google Meet allows one to present their whole screen or a specific window during a
+                meeting.</p>
+            <p class="- topic/p ">This includes documents, presentations, and spreadsheets.</p>
+            <p class="- topic/p ">How to present during a meeting:</p>
+            <p class="- topic/p ">1. Join the Google Meeting</p>
+            <p class="- topic/p ">2. At the bottom of the screen, click “Present now”.</p>
+            <p class="- topic/p ">3. From there, choose either “Your entire screen”, “A window”, or “A tab”. If showing
+                a Slides</p>
+            <p class="- topic/p ">presentation through a different tab, it can be controlled in Meet.</p>
+            <p class="- topic/p ">4. Finally, click “Share”.</p>
+            <p class="- topic/p ">The presentation can be stopped by clicking “Stop Presenting” in the Meet window. At
+                the</p>
+            <p class="- topic/p ">bottom right of the screen, click “You are presenting” then “stop presenting”.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">A Chrome browser is required to present directly to Google Meet from Google
+                    Docs,</b></p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Sheets, or Slides.</b></p>
+        </context>
+    </taskbody>
+<reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="when_you_d_like_to_speak" oid="when_you_d_like_to_speak" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Speak Up and Ask Questions</ph></title>
+    <shortdesc class="- topic/shortdesc ">When you want to speak while someone is presenting, all you need to do is "raise your
+        hand".</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">The <b class="+ topic/ph hi-d/b ">meeting host</b> is the person who schedules or begins the meeting. They can
+                add up to 25 co-</p>
+            <p class="- topic/p ">hosts once inside a meeting, and these people are known as moderators.</p>
+            <p class="- topic/p ">By <b class="+ topic/ph hi-d/b ">raising one’s hand</b>, a participant is indicating they’d like to speak and/or
+                ask a question. All</p>
+            <p class="- topic/p ">meeting participants are notified when someone raises their hand. They’re also moved
+                to the</p>
+            <p class="- topic/p ">main grid so moderators can see them and approve their request.</p>
+            <p class="- topic/p ">A participant can scroll to the bottom of their screen to the "Hand Raise" icon to do
+                this. They'd click on the same icon when they were done and wanted to lower their
+                hand.</p>
+        </example>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_send_messages" oid="how_to_send_messages" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Send Messages</ph></title>
+    <shortdesc class="- topic/shortdesc ">The following instructions are a guide on how to message other participants. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Messages are visible to everyone in a meeting. The conversation in the chat is also
+                saved</p>
+            <p class="- topic/p ">when meetings are recorded.</p>
+            <p class="- topic/p ">1. Join the video meeting.</p>
+            <p class="- topic/p ">2. At the bottom right of your screen, click “Chat”.</p>
+            <p class="- topic/p ">3. Enter your message.</p>
+            <p class="- topic/p ">4. Hit “send”.</p>
+        </context>
+    </taskbody>
+</task></task></map>
